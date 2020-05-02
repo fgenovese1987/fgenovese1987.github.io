@@ -4,4 +4,4 @@ title: Other
 excerpt: "Other stuff"
 ---
 
-blah
+to do
