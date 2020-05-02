@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "About Me"
+excerpt: "Home page"
 ---
 
 ## About me
