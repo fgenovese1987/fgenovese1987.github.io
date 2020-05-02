@@ -13,4 +13,4 @@ MathJax.Hub.Config({
     extensions: ["AMSmath.js", "AMSsymbols.js","AMScd.js"],
     TagSide: "left",
     }
-    })
+    });
