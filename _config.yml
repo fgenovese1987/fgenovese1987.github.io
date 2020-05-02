@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Francesco Genovese
   avatar: bio-photo.jpg
-  bio: "Postdoc researcher at Universiteit Antwerpen"
+  bio: "Postdoc researcher in Mathematics, Universiteit Antwerpen"
   email: Name.Surname@uantwerpen.be
   # Do not include the @ symbol in your Twitter username
   twitter: fgenovese1987
@@ -23,7 +23,7 @@ owner:
     verify:
     scholar: #id
   facebook: #username
-  instagram: #username
+  instagram: fgenovese87
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
@@ -33,7 +33,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: anisama1987
   soundcloud: #username
   weibo: #username
   flickr: #username
