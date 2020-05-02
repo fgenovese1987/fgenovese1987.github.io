@@ -1,12 +1,12 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "About Me"
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Blah
 
-## Current Interests and Projects:
+## Research interests:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- blah
+- blah
+- blah
