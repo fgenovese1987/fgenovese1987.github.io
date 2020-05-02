@@ -1,8 +1,8 @@
 ---
 layout: page
+title: "About me"
 excerpt: "Home page"
 ---
-
 
 I am a postdoc researcher in [homological algebra](https://en.wikipedia.org/wiki/Homological_algebra) at the [University of Antwerp](https://www.uantwerpen.be/). I've been working on the FWO Research Project *Hochschild cohomology and deformation theory of triangulated categories*, with promotors [Wendy Lowen](https://win.uantwerpen.be/~wlowen/) and [Michel Van den Bergh](http://hardy.uhasselt.be/personal/vdbergh/Members/michel_id.html).
 
