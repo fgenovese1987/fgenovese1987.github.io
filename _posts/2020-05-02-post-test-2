@@ -1,0 +1,15 @@
+---
+layout: post
+title: Test 2
+excerpt: "Text with LaTeX and MathJax"
+tags: [miscellanous]
+mathjax: true
+comments: true
+category: blog
+---
+
+Let's try again, this time with $\LaTeX$. Also
+$$
+\int_M d\omega = \int_{\partial M} \omega.
+$$
+Hope it works!
