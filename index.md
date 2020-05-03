@@ -11,7 +11,7 @@ I did my Bachelor and Master studies in Mathematics at the [University of Pavia]
 I am an alumnus of [Collegio Fratelli Cairoli](https://www.collegiocairoli.it/).
 
 ## Research interests (in short)
-- Triangulated categories and their higher categorical enhancements: differential graded categories, A-infinity categories.
+- Higher categorical enhancements of triangulated categories: differential graded categories, A-infinity categories.
 - t-structures on triangulated categories and their enhancements.
 - Applications of higher categories to algebraic geometry: derived categories, Fourier-Mukai functors.
 
