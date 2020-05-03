@@ -3,6 +3,8 @@ title: Research
 excerpt: "Research topics and projects, list of publications and preprints"
 ---
 
+## Overview
+
 My work is centered on *homological algebra*, which is essentially the study of "linearized scaffolds of spaces": [chain complexes](https://en.wikipedia.org/wiki/Chain_complex), (co)homology and so on. I'm mostly interested in the theory and applications of *differential graded (=dg) categories*, which are categories whose hom-sets are themselves chain complexes. Dg-categories are, in fact, part of the world of higher categories, and they serve as enhancements for *triangulated categories* - a common tool in contemporary algebra and algebraic geometry.
 
 ## Publications
