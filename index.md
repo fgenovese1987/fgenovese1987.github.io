@@ -14,3 +14,7 @@ I am an alumnus of [Collegio Fratelli Cairoli](https://www.collegiocairoli.it/).
 - Triangulated categories and their higher categorical enhancements: differential graded categories, A-infinity categories.
 - t-structures on triangulated categories and their enhancements.
 - Applications of higher categories to algebraic geometry: derived categories, Fourier-Mukai functors.
+
+## More personal data
+- My [curriculum vitae](https://fgenovese1987.github.io/documents/cv_eng.pdf).
+- My [institutional webpage](https://www.uantwerpen.be/nl/personeel/francesco-genovese/).
