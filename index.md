@@ -18,3 +18,4 @@ I am an alumnus of [Collegio Fratelli Cairoli](https://www.collegiocairoli.it/).
 ## More personal data
 - My [curriculum vitae](https://fgenovese1987.github.io/documents/cv_eng.pdf).
 - My [institutional webpage](https://www.uantwerpen.be/nl/personeel/francesco-genovese/).
+- My [Telegram account](https://t.me/fg_anisama) (probably the fastest way to contact me).
