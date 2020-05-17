@@ -75,3 +75,4 @@ Per concludere questa parte, giusto un paio di esempi "generali" ma istruttivi. 
 
 Abbiamo una nozione di "spazio", ora, e possiamo finalmente cercare di capire un po' più precisamente cosa significa individuare una sua [*impalcatura*](https://fgenovese1987.github.io/blog/impalcatura-spazio/). Questo, però, farà sì che la nozione di spazio così come l'abbiamo data venga già messa (un po') in crisi!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Id2Kg1zwn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
