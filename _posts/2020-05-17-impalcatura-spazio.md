@@ -1,7 +1,7 @@
 ---
 layout: post
 title: L'impalcatura di uno spazio topologico (Italiano)
-excerpt: "The scaffold of a topological space: the singular simplicial set (Italian)"
+excerpt: "Vediamo la definizione dell'insieme simpliciale singolare associato ad uno spazio topologico (post in italiano)"
 tags: [topology, italiano]
 mathjax: true
 comments: true
