@@ -31,4 +31,4 @@ Per $n>2$, avremo effettivi $n$-simplessi "geometrici". Se la definizione sopra 
 
 Con tali modelli fra le mani e la nozione di continuità, abbiamo finalmente modo di capire in modo preciso cosa sono "punti in $X$", "linee in $X$", "triangoli in $X$" e via dicendo:
 
-- un "punto" sarà una funzione continua $|\Delta^0| \to X$. Ciao.
+- un "punto" sarà una funzione continua $f \colon A \to B$.
