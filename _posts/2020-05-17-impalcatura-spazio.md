@@ -31,9 +31,9 @@ Per $n>2$, avremo effettivi $n$-simplessi "geometrici". Se la definizione sopra 
 
 Con tali modelli fra le mani e la nozione di continuità, abbiamo finalmente modo di capire in modo preciso cosa sono "punti in $X$", "linee in $X$", "triangoli in $X$" e via dicendo:
 
-- un "punto" sarà una funzione continua $x \colon |\Delta^0| \to X$. Questo significa davvero scegliere un elemento $x \in X$!
+- un "punto" sarà una funzione continua $ x \colon |\Delta^0| \to X $. Questo significa davvero scegliere un elemento $x \in X$!
 - una "linea" sarà una funzione continua $\gamma \colon |\Delta^1| \to X$. Questo significa prendere un cammino continuo tra due punti di $X$!
-- un "triangolo" sarà una funzione continua $\alpha \colon |\Delta^2| \to X$. Questo significa proprio prendere una qualche "forma triangolare continua" in $X$, magari un po' bruttina a vedersi
+- un "triangolo" sarà una funzione continua $\alpha \colon |\Delta^2| \to X$. Questo significa proprio prendere una qualche "forma triangolare continua" in $X$, magari un po' bruttina a vedersi.
 - in generale, un "$n$-simplesso" sarà una funzione continua $\beta \colon |\Delta^n| \to X$.
 
 La storia non finisce qui. Una proprietà cruciale dei simplessi è che hanno delle *facce* che sono a loro volta simplessi di dimensione inferiore. Ad esempio, $|\Delta^1|$ ha due facce di dimensione $0$ che sono letteralmente il punto iniziale e il punto finale del segmento. Facendo un piccolo sforzo di formalizzazione, possiamo certamente vedere queste due "facce" come funzioni continue:
