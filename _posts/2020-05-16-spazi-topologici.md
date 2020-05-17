@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduzione agli spazi topologici (Italiano)
+title: Introduzione agli spazi topologici (italiano)
 excerpt: "Una breve introduzione alla nozione di spazio topologico (post in italiano)"
 tags: [topology, italiano]
 mathjax: true
@@ -73,5 +73,5 @@ Per concludere questa parte, giusto un paio di esempi "generali" ma istruttivi. 
 - Nel secondo caso, definiamo $\overline{A} = X$ per ogni sottoinsieme $A$. Come a dire: ogni punto dello spazio è aderente a qualsiasi insieme. Tale scelta produce una topologia su $X$ che si dice *topologia indiscreta o banale*. In un certo senso, è quella che "distingue meno di tutte", e può essere pensata come un blob molto indistinto in cui dal punto di vista topologico ogni punto viene confuso a tutti gli altri.
 - Sugli spazi $\mathbb R^n$ e pure sui loro sottoinsiemi, la nozione di aderenza che mettiamo è quella descritta nella prima parte dell'esposizione (bisognerebbe essere un po' più precisi qui, ma ci accontentiamo). Tale topologia è detta *topologia euclidea*.
 
-Abbiamo una nozione di "spazio", ora, e possiamo finalmente cercare di capire un po' più precisamente cosa significa individuare una sua *impalcatura*. Questo, però, farà sì che la nozione di spazio così come l'abbiamo data venga già messa (un po') in crisi!
+Abbiamo una nozione di "spazio", ora, e possiamo finalmente cercare di capire un po' più precisamente cosa significa individuare una sua [*impalcatura*](https://fgenovese1987.github.io/blog/impalcatura-spazio/). Questo, però, farà sì che la nozione di spazio così come l'abbiamo data venga già messa (un po') in crisi!
 
