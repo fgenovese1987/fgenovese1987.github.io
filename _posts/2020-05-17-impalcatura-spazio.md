@@ -65,7 +65,7 @@ $$
 \sigma^0 \colon |\Delta^1| \to |\Delta^0|
 $$
 
-che prende il segmento e lo collassa nel punto. In dimensioni superiori? Avremo ad esempio $\sigma^0 \colon |\Delta^2| \to |\Delta^1|$ che collassa i vertici $0$ e $1$, e $\sigma^1 \colon \lvert \Delta^2 \rvert \to \lvert \Delta^1 \rvert$ che collassa i vertici $1$ e $2$ (con un disegno sarà tutto più chiaro). In generale avremo
+che prende il segmento e lo collassa nel punto. In dimensioni superiori? Avremo ad esempio $\sigma^0 \colon \lvert \Delta^2 \rvert \to \lvert \Delta^1 \rvert$ che collassa i vertici $0$ e $1$, e $\sigma^1 \colon \lvert \Delta^2 \rvert \to \lvert \Delta^1 \rvert$ che collassa i vertici $1$ e $2$ (con un disegno sarà tutto più chiaro). In generale avremo
 
 $$
 \sigma^i \colon |\Delta^{n+1}| \to |\Delta^n|
