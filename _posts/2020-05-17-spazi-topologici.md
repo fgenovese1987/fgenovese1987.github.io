@@ -3,6 +3,7 @@ layout: post
 title: Introduzione agli spazi topologici (Italiano)
 excerpt: "Una breve introduzione alla nozione di spazio topologico (post in italiano)"
 tags: [topology, italiano]
+mathjax: true
 comments: true
 category: blog
 ---
