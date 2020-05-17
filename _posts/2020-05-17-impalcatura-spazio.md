@@ -8,8 +8,6 @@ comments: true
 category: blog
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jm8hHu8Uu2A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Teniamo sempre massimamente presente la nostra intuizione. Fare topologia significa certamente indagare il concetto di spazio in generale, ma anche poi lavorare materialmente su alcuni 'spazi' particolarmente interessanti: circonferenze, sfere, tori (altrimenti detti "ciambelle col buco"), eccetera. Cosa potrebbe essere l'"impalcatura" di uno spazio come questi? Giusto per fare un esempio: per quanto concerne le superfici, un approccio che storicamente ha avuto successo è quello delle "triangolazioni". Si prende una superficie e si disegnano su di essa punti, linee (anche curve) e "triangolini". Sembra un'idea interessante: uno spazio viene decomposto in "componenti" distinte per dimensione:
 
 - in dimensione $0$, i punti
@@ -119,3 +117,5 @@ Gli insiemi simpliciali saranno i veri protagonisti di questo corso, e già ora 
 Nel caso la risposta fosse affermativa, la nozione di spazio a cui siamo approdati con la definizione di spazio topologico potrebbe essere messa in crisi: potremmo chiederci se potrebbe valer la pena *confondere il concetto di spazio con quello di "sua impalcatura"*, ossia chiederci:
 
 *Per caso, la nozione di insieme simpliciale è in grado di catturare l'essenza del concetto di spazio?*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jm8hHu8Uu2A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
