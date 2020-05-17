@@ -76,7 +76,7 @@ per $i=0,\ldots,n$, e l'idea è che $\sigma^i$ collassa fra loro i vertici $i$ e
 Finalmente, possiamo usare tutto quel che abbiamo osservato per finalizzare la nostra "impalcatura dello spazio $X$". Iniziamo con esempi in "dimensione bassa":
 
 - Dato un punto $x \colon \lvert \Delta^0 \rvert \to X$, possiamo associarvi un "cammino degenere" $s_0 x \colon \lvert \Delta^1 \rvert \to X$, che si ottiene dalla composizione $\lvert \Delta^1 \rvert \xrightarrow{\sigma^0} \lvert \Delta^0 \rvert \xrightarrow{x} X$.
-- Dato un cammino $\gamma \colon \lvert \Delta^1 \rvert \to X$, possiamo associarvi gli estremi finale e iniziale componendo con le facce $\delta^i \colon \lvert \Delta^0 \rvert \to \lvert \Delta^1 \rvert$. Avremo dunque dei punti $d_0 \gamma, d_1 \gamma \colon |\Delta^0| \to X$. 
+- Dato un cammino $\gamma \colon \lvert \Delta^1 \rvert \to X$, possiamo associarvi gli estremi finale e iniziale componendo con le facce $\delta^i \colon \lvert \Delta^0 \rvert \to \lvert \Delta^1 \rvert$. Avremo dunque dei punti $d_0 \gamma, d_1 \gamma \colon \lvert \Delta^0 \rvert \to X$. 
 - Osserviamo per inciso che il cammino degenere $s_0 x$ ha come estremi iniziale e finale lo stesso punto $x$: $d_0s_0 x = x$ e $d_1 s_0 x=x$.
 - In generale, dato un $n$-simplesso $\alpha \colon \lvert \Delta^n \rvert \to X$, avremo $(n-1)$-simplessi $d^i\alpha$ ottenuti componendo con le mappe $\delta^i$. Le possiamo vedere come "facce di $\alpha$". Avremo poi $(n+1)$-simplessi "degeneri" $s_i \alpha$, ottenuti componendo con $\sigma^i$. Si possono vedere come "degenerazioni di $\alpha$". Facendo qualche disegno l'intuizione sarà chiara!
 
