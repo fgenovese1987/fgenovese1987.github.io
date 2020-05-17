@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduzione agli spazi topologici (Italiano)
-excerpt: "An introduction to topological spaces (in Italian)"
+excerpt: "Una breve introduzione alla nozione di spazio topologico (post in italiano)"
 tags: [topology, italiano]
 comments: true
 category: blog
