@@ -117,3 +117,5 @@ Gli insiemi simpliciali saranno i veri protagonisti di questo corso, e già ora 
 Nel caso la risposta fosse affermativa, la nozione di spazio a cui siamo approdati con la definizione di spazio topologico potrebbe essere messa in crisi: potremmo chiederci se potrebbe valer la pena *confondere il concetto di spazio con quello di "sua impalcatura"*, ossia chiederci:
 
 *Per caso, la nozione di insieme simpliciale è in grado di catturare l'essenza del concetto di spazio?*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jm8hHu8Uu2A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

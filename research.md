@@ -19,6 +19,4 @@ My work is centered on *homological algebra*, which is essentially the study of 
 
 ### In preparation
 
-- Deformation theory of triangulated categories with t-structure, joint with W. Lowen and M. Van den Bergh
-
 - Perfect complexes of twisted sheaves and dg-enhancements, joint with R. Moschetti and G. Scattareggia ([poster](https://fgenovese1987.github.io/documents/papers/poster_twisted.pdf))
