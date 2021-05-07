@@ -21,4 +21,4 @@ My work is centered on *homological algebra*, which is essentially the study of 
 
 ### In preparation
 
-- Perfect complexes of twisted sheaves and dg-enhancements, joint with R. Moschetti and G. Scattareggia ([poster](https://fgenovese1987.github.io/documents/papers/poster_twisted.pdf))
+- Perfect complexes of twisted sheaves and dg-enhancements, joint with Riccardo Moschetti and Giorgio Scattareggia ([poster](https://fgenovese1987.github.io/documents/papers/poster_twisted.pdf))
