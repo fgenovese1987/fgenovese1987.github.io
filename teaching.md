@@ -9,7 +9,7 @@ excerpt: "Teaching activity"
 
 ### 2020-2021
 
-- *Linear Algebra*, exercise sessions, B. Sc. in Computer Science, University of Antwerp.
+- *Linear Algebra*, exercise sessions, B. Sc. in Computer Science, University of Antwerp. [Youtube playlist](https://www.youtube.com/playlist?list=PL2A-ORhYpumzEIooXGzr6wAFdhoddemK4).
 
 ### 2019-2020
 
