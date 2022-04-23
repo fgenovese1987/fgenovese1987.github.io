@@ -5,7 +5,7 @@ excerpt: "Teaching activity"
 
 ### 2021-2022
 
-- *Differential graded categories*, M. Sc. in Mathematics, Charles University, Prague. ([Course notes](https://fgenovese1987.github.io/documents/notes/dg_course.pdf) ([Lecture 11](https://www.youtube.com/watch?v=UN0qxFa67W0)) **ANNOUNCEMENT: no lesson on wed 27/04/22**
+- *Differential graded categories*, M. Sc. in Mathematics, Charles University, Prague. ([Course notes](https://fgenovese1987.github.io/documents/notes/dg_course.pdf)) ([Lecture 11](https://www.youtube.com/watch?v=UN0qxFa67W0)) **ANNOUNCEMENT: no lesson on wed 27/04/22**
 
 ### 2020-2021
 
