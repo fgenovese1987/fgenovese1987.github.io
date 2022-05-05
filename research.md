@@ -9,7 +9,7 @@ My work is centered on *homological algebra*, which is essentially the study of 
 
 ### Publications
 
-- [A derived Gabriel-Popescu theorem for t-structures via derived injectives](https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnab367/6516448), joint with Julia Ramos González, *International Mathematics Research Notices*, 2022 ([PDF](https://fgenovese1987.github.io/documents/papers/gabrielpopescu_tstruct.pdf)) ([poster](https://fgenovese1987.github.io/documents/papers/poster_gabrielpopescu.pdf))
+- [A derived Gabriel-Popescu theorem for t-structures via derived injectives](https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnab367/6516448), joint with Julia Ramos González, *International Mathematics Research Notices*, 2022 ([PDF](https://fgenovese1987.github.io/documents/papers/gabrielpopescu_tstruct.pdf)) ([Poster](https://fgenovese1987.github.io/documents/papers/poster_gabrielpopescu.pdf))
 
 - [T-structures and twisted complexes on derived injectives](https://www.sciencedirect.com/science/article/abs/pii/S0001870821002656), joint with Wendy Lowen and Michel Van den Bergh, *Advances in Mathematics*, 2021 ([PDF](https://fgenovese1987.github.io/documents/papers/dginj_tstruct.pdf))
 
