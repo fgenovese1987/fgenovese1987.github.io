@@ -19,6 +19,8 @@ My work is centered on *homological algebra*, which is essentially the study of 
 
 ### Preprints
 
+- [Uniqueness of dg-lifts via restriction to injective objects](https://arxiv.org/abs/2211.08550), 2022 ([PDF](https://fgenovese1987.github.io/documents/papers/dglift_inj.pdf))
+
 - [T-structures on unbounded twisted complexes](https://arxiv.org/abs/2206.12724), 2022 ([PDF](https://fgenovese1987.github.io/documents/papers/Unbounded_twisted_complexes.pdf))
 
 ### In preparation
