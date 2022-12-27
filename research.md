@@ -7,7 +7,10 @@ excerpt: "Research topics and projects, list of publications and preprints"
 
 My work is centered on *homological algebra*, which is essentially the study of "linearized scaffolds of spaces": [chain complexes](https://en.wikipedia.org/wiki/Chain_complex), (co)homology and so on. In some sense, homological algebra is "higher dimensional linear algebra". I'm mostly interested in the theory and applications of *differential graded (=dg) categories*, which are categories whose hom-sets are themselves chain complexes. Dg-categories are, in fact, part of the world of higher categories, and they serve as enhancements for *triangulated categories* - a common tool in contemporary algebra and algebraic geometry.
 
+*Caveat*: PDF files uploaded here are often more up-to-date than the arXiv versions.
+
 ### Publications
+
 
 - [A derived Gabriel-Popescu theorem for t-structures via derived injectives](https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnab367/6516448), joint with Julia Ramos González, *International Mathematics Research Notices*, 2022 ([PDF](https://fgenovese1987.github.io/documents/papers/gabrielpopescu_tstruct.pdf)) ([Poster](https://fgenovese1987.github.io/documents/papers/poster_gabrielpopescu.pdf))
 
