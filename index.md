@@ -17,4 +17,4 @@ I am an alumnus of [Collegio Fratelli Cairoli](https://www.collegiocairoli.it/).
 
 ## More personal data
 - My [curriculum vitae](https://fgenovese1987.github.io/documents/cv_eng.pdf).
-- My [institutional webpage](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=14441).
+- My [institutional webpage](https://www.unimi.it/it/ugov/person/francesco-genovese).
