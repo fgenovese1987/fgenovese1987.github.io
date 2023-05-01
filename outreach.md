@@ -13,11 +13,10 @@ I have a personal [Youtube channel](https://www.youtube.com/c/FrancescoGenovese)
 
 ### Meet Science (Italian)
 
-A few colleagues from various scientific areas and I have started a new outreach project on [Twitch](https://www.twitch.tv/) with the goal of interviewing Italian scientists and academics, and helping spread and communicate their activities to the general public.
+A few colleagues from various scientific areas and I have started an outreach project with the goal of interviewing Italian scientists and academics, and helping spread and communicate their activities to the general public.
 
-- [Our Twitch channel](https://www.twitch.tv/meetscience), where we go live normally on mondays and wednesdays, at around 21.
-- [Our Youtube channel](https://www.youtube.com/c/MeetScience), where you can find the recordings of the past live streams.
-- [Our Instagram page](https://www.instagram.com/meet.science/), where you can keep up-to-date on our upcoming live streams.
+- [Our Youtube channel](https://www.youtube.com/c/MeetScience), where you can find live streams (upcoming and past)
+- [Our Instagram page](https://www.instagram.com/meet.science/).
 
 
 
