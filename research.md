@@ -11,7 +11,7 @@ My work is centered on *homological algebra*, which is essentially the study of 
 
 ### Publications
 
-- [T-structures on unbounded twisted complexes]([https://arxiv.org/abs/2206.12724](https://link.springer.com/article/10.1007/s00209-023-03340-4)), *Mathematische Zeitschrift*, 2023 ([PDF](https://fgenovese1987.github.io/documents/papers/Unbounded_twisted_complexes.pdf)).
+- [T-structures on unbounded twisted complexes](https://link.springer.com/article/10.1007/s00209-023-03340-4), *Mathematische Zeitschrift*, 2023 ([PDF](https://fgenovese1987.github.io/documents/papers/Unbounded_twisted_complexes.pdf)).
 
 - [A derived Gabriel-Popescu theorem for t-structures via derived injectives](https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnab367/6516448), joint with Julia Ramos González, *International Mathematics Research Notices*, 2022 ([PDF](https://fgenovese1987.github.io/documents/papers/gabrielpopescu_tstruct.pdf)) ([Poster](https://fgenovese1987.github.io/documents/papers/poster_gabrielpopescu.pdf))
 
