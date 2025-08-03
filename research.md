@@ -11,6 +11,8 @@ My work is centered on *homological algebra*, which is essentially the study of 
 
 ### Publications
 
+- [Uniqueness of dg-lifts via restriction to injective objects](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/jlms.70166), *Journal of the London Mathematical Society*, 2025 ([PDF](https://fgenovese1987.github.io/documents/papers/dglift_inj.pdf))
+
 - [T-structures on unbounded twisted complexes](https://link.springer.com/article/10.1007/s00209-023-03340-4), *Mathematische Zeitschrift*, 2023 ([PDF](https://fgenovese1987.github.io/documents/papers/Unbounded_twisted_complexes.pdf)).
 
 - [A derived Gabriel-Popescu theorem for t-structures via derived injectives](https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnab367/6516448), joint with Julia Ramos González, *International Mathematics Research Notices*, 2022 ([PDF](https://fgenovese1987.github.io/documents/papers/gabrielpopescu_tstruct.pdf)) ([Poster](https://fgenovese1987.github.io/documents/papers/poster_gabrielpopescu.pdf))
@@ -23,13 +25,9 @@ My work is centered on *homological algebra*, which is essentially the study of 
 
 ### Preprints
 
-- [T-structures on dg-categories and derived deformations](https://arxiv.org/abs/2212.12564), joint with Wendy Lowen and Michel Van den Bergh, 2022 ([PDF](https://arxiv.org/pdf/2212.12564.pdf)) ([Seminar](https://www.youtube.com/watch?v=50D2IrWyd2k))
-
-- [Uniqueness of dg-lifts via restriction to injective objects](https://arxiv.org/abs/2211.08550), 2022 ([PDF](https://fgenovese1987.github.io/documents/papers/dglift_inj.pdf))
-
 - [T-structures on unbounded twisted complexes](https://arxiv.org/abs/2206.12724), 2022 ([PDF](https://fgenovese1987.github.io/documents/papers/Unbounded_twisted_complexes.pdf)), accepted for publication in _Mathematische Zeitschrift_
 
-### In preparation
+### In (long-term) preparation
 
 - Tensor products of Grothendieck t-dg-categories, joint with Julia Ramos González
 
