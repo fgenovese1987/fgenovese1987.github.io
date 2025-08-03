@@ -4,7 +4,7 @@ title: "Welcome!"
 excerpt: "Home page"
 ---
 
-I do not work in academia anymore, but I will likely still update this page with mathematical projects I will be (on and off) working on. I still enjoy doing and talking about mathematics, so feel free to contact me at the listed email.
+I do not work in academia anymore, but I will likely still update this page with mathematical projects I will be (on and off) working on. I still enjoy doing and talking about mathematics, so feel free to contact me at the listed email (remove the CAPITAL LETTERS to obtain it).
 
 Until January 2024 I was a researcher in [homological algebra](https://en.wikipedia.org/wiki/Homological_algebra) working in the [Department of Mathematics](https://www.matematica.unimi.it/) at the [University of Milan](https://www.unimi.it/) under the supervision of [Paolo Stellari](https://sites.unimi.it/stellari/). Until December 2022, I worked in the [Department of Algebra](https://www.mff.cuni.cz/en/faculty/organizational-structure/department?code=301) at the [Charles University](https://cuni.cz/uken-1.html) under the supervision of [Jan Šťovíček](https://www2.karlin.mff.cuni.cz/~stovicek/). Before, I worked in the Fundamental Mathematics research group at the [University of Antwerp](https://www.uantwerpen.be/) under the supervision of [Wendy Lowen](https://win.uantwerpen.be/~wlowen/welcome.html); formerly, I was a member of the Algebra research group at the [University of Hasselt](https://www.uhasselt.be/) under the supervision of [Michel Van den Bergh](http://hardy.uhasselt.be/personal/vdbergh/Members/michel_id.html).
 
