@@ -25,6 +25,8 @@ My work is centered on *homological algebra*, which is essentially the study of 
 
 ### Preprints
 
+- [The derivator of a dg-category](https://arxiv.org/abs/2508.02612), joint with Chiara Sava and Jan Šťovíček ([PDF](https://arxiv.org/pdf/2508.02612))
+
 - [Deformations of triangulated categories with t-structures via derived injectives](https://arxiv.org/abs/2411.15359), joint with Wendy Lowen, Julie Symons and Michel Van den Bergh, 2024 ([PDF](https://arxiv.org/pdf/2411.15359))
 
 - [T-structures on dg-categories and derived deformations](https://arxiv.org/abs/2212.12564), joint with Wendy Lowen and Michel Van den Bergh, 2022 ([PDF](https://arxiv.org/pdf/2212.12564.pdf)) ([Seminar](https://www.youtube.com/watch?v=50D2IrWyd2k))
